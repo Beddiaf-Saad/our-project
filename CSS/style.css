@@ -1,0 +1,8 @@
+ul{
+    background-color: lightskyblue
+}
+li>a{
+    color: royalblue;
+    font-family:fantasy;
+    font-weight: 500;
+}
