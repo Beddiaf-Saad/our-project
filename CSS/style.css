@@ -6,3 +6,13 @@ li>a{
     font-family:fantasy;
     font-weight: 500;
 }
+fieldset{
+    padding: 20px;
+    background-color: lightgreen;
+}
+legend{
+     font-size: 32px;
+     font-weight: 700;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
